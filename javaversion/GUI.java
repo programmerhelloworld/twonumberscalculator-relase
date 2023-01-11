@@ -1,5 +1,6 @@
 /*
-Copyright (c) 2022, Francesco Maresca. All rights reserved.
+Was part of Maresca Math Tools Bundle
+Copyright (c) 2023, Francesco Maresca. All rights reserved.
 Authors: @programmerhelloworld (Francesco Maresca)
 */
 
